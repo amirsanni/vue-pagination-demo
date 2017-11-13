@@ -1,0 +1,24 @@
+/* 
+    Created on : 12-Nov-2017
+    Author     : amir.sanni
+*/
+
+[v-cloak] {
+    display: none;
+}
+
+.flat-border{
+    border-radius: 0px;
+}
+
+.color-white{
+    color: #fff !important;
+}
+
+.margin-bottom-20{
+    margin-bottom: 20px;
+}
+
+.margin-top-20{
+    margin-top: 20px;
+}
