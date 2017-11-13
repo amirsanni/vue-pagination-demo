@@ -1,2 +1,2 @@
 # vue-pagination-demo
-A simple demo of doing client-side pagination with VueJS
+A simple demo of client-side pagination with VueJS
