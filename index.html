@@ -38,12 +38,7 @@
             </div>
 
             <div class="row margin-top-20">
-                <div class="col-xs-12 col-sm-6 col-sm-offset-3" v-if='isLoading'>
-                    Loading countries. Please wait...
-                </div>
-
-
-                <div class="col-xs-12 col-sm-8 col-sm-offset-2 table-responsive" v-else-if='countriesToDisplay.length'>
+                <div class="col-xs-12 col-sm-8 col-sm-offset-2 table-responsive" v-if='countriesToDisplay.length'>
                     <table class="table table-striped table-hover table-bordered">
                         <thead>
                             <tr>
