@@ -975,7 +975,6 @@ window.addEventListener('load', function(){
 		
 		data(){
 			return {
-				isLoading: true,
 				allCountries: [],
 				countriesToDisplay: [],
 				perPage: 20,
